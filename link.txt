@@ -1,0 +1,26 @@
+git clone https://github.com/isrir/fact.git
+git clone https://github.com/isrir/feedback.git
+git clone https://github.com/isrir/great.git
+git clone https://github.com/isrir/friend.git
+git clone https://github.com/isrir/leap.git
+git clone https://github.com/isrir/menu.git
+git clone https://github.com/isrir/multiple.git
+git clone https://github.com/isrir/odd.git
+git clone https://github.com/isrir/vowels.git
+git clone https://github.com/isrir/product.git
+git clone https://github.com/isrir/quizz.git
+git clone https://github.com/isrir/result.git
+git clone https://github.com/isrir/smail.git
+git clone https://github.com/isrir/time.git
+git clone https://github.com/isrir/whatsup.git
+https://github.com/isrir/wordcount.git
+https://github.com/isrir/employee.git
+https://github.com/isrir/email.git
+https://github.com/isrir/degree.git
+https://github.com/isrir/cut.git
+https://github.com/isrir/captials.git
+https://github.com/isrir/cal.git
+https://github.com/isrir/blog.git
+https://github.com/isrir/alumin.git
+https://github.com/isrir/acro.git
+https://github.com/isrir/acc.git
